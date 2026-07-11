@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Guilherme.
+## Hello there! I'm Guilherme.
 
 I'm a **Software Developer** who bridges the gap between industrial automation and creative coding.  
 By day, I build robust systems for machines; by night, I explore new ideas as game development, physics simulations, custom projcets for retro equipment, and arduino projects.
@@ -11,7 +11,7 @@ By day, I build robust systems for machines; by night, I explore new ideas as ga
 
 ---
 
-### Hobby / Creative Side
+### Hobby Side
 - **Game Dev & Physics:** I love testing new ideas and improving my problem-solving skills.  
 - **Current project:** Building a **2D Engine** with physics simulation support and game development capabilities, **100% in C# and .NET Windows Forms**.  
 *(Check it out in my pinned repositories!)*
