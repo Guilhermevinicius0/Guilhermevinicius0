@@ -1,8 +1,7 @@
 ## 👋 Hi there! I'm Guilherme.
 
 I'm a **Software Developer** who bridges the gap between industrial automation and creative coding.  
-By day, I build robust systems for machines; by night, I explore game development and physics simulations just for the fun of it!
-
+By day, I build robust systems for machines; by night, I explore new ideas as game development, physics simulations, custom projcets for retro equipment, and arduino projects.
 ---
 
 ### Professional Side
