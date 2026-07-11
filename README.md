@@ -7,7 +7,7 @@ By day, I build robust systems for machines; by night, I explore new ideas as ga
 ### Professional Side
 - **Industrial Automation:** I develop custom supervisory systems and SCADAs to monitor, control, and acquire data from industrial machines and processes.
 - **Currently working on:** A custom Windows Forms supervisory system to manage multiple machines in a plant environment.
-- **Currently learning:** Software architecture and design patterns (Clean Architecture, MVC, etc.) to write more maintainable and scalable code.
+- **Currently learning:** Software architecture and design patterns (Clean Architecture, MVVM, etc.) to write more maintainable and scalable code.
 
 ---
 
