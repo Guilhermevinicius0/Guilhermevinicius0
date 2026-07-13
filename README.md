@@ -1,7 +1,5 @@
 ## Hello there! I'm Guilherme.
 
-Hi, I'm Guilherme.
-
 I'm a software developer passionate about building things from scratch. Professionally, I develop SCADA and supervisory systems for industrial automation using C# and .NET.
 
 In my free time, you'll usually find me working on personal projects—from a 2D game engine with physics simulation to embedded systems with Arduino and ESP32, game development, and software for retro hardware.
